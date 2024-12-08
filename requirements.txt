@@ -2,7 +2,6 @@ streamlit
 st-gsheets-connection
 datetime
 pandas
-pickle
 plotly.express
 StandardScaler
 time
