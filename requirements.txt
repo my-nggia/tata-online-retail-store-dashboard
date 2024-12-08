@@ -1,7 +1,2 @@
 streamlit
 st-gsheets-connection
-datetime
-pandas
-plotly.express
-StandardScaler
-time
